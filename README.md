@@ -1,6 +1,6 @@
 # Trabajo Práctico n°6
 
-En la carpeta 1-React-Vite-TS se encuentra el proyecto práctico integrador en React siguiendo la lista de reproducción en el aula virtual de la cátedra
+Aquí se encuentra el proyecto práctico integrador en React siguiendo la lista de reproducción en el aula virtual de la cátedra
 
 Abrir folder con Visual Studio Code.
 
